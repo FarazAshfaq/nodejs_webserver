@@ -1,0 +1,27 @@
+{
+  "name": "first-deployments",
+  "version": "1.0.0",
+  "description": "responsive web server",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FarazAshfaq"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "express",
+    "webserver",
+    "responsive",
+    "server"
+  ],
+  "author": "Muhammad Faraz Ashfaq",
+  "license": "ISC"
+}
